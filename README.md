@@ -33,13 +33,20 @@ This allows the plugin to detect if WhatsApp, Telegram, or Twitter (X) is instal
 
 ## 🚀 Usage
 
-### 1. Import the plugin
+### 1. Add to ```pubspec.yaml```
+
+```yaml
+  media_launcher_plugin:
+    git: https://github.com/mustafa-kh-98/media_launcher_plugin.git
+```
+
+### 2. Import the plugin
 
 ```dart
 import 'package:media_launcher_plugin/media_launcher_plugin.dart';
 ```
 
-### 2. Call one of the available methods
+### 3. Call one of the available methods
 
 ```dart
 MediaLauncherPlugin.toWhatsapp("Hello from my app!");
