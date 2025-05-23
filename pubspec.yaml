@@ -1,6 +1,7 @@
 name: media_launcher_plugin
-description: "A new Flutter plugin project."
+description: "A Flutter plugin to launch and share text messages directly to WhatsApp, Telegram, X (Twitter), or via the system share sheet."
 version: 0.0.1
+homepage: https://github.com/mustafa-kh-98/media_launcher_plugin.git
 
 environment:
   sdk: ^3.5.4
