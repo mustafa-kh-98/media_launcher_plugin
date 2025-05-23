@@ -36,7 +36,7 @@ This allows the plugin to detect if WhatsApp, Telegram, or Twitter (X) is instal
 ### 1. Add to ```pubspec.yaml```
 
 ```yaml
-  media_launcher_plugin: ^0.0.1
+  media_launcher_plugin: ^1.0.0
 ```
 
 ### 2. Import the plugin
